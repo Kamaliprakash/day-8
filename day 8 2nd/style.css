@@ -1,15 +1,4 @@
-body {
-  background-color: black;
-  color: pink;
-}
-ul {
-  color: lightblue;
-}
-div {
-  background-color: lightgrey;
-  color: black;
-}
-span{
-    background-color: lightgoldenrodyellow;
-    color: aqua;
+body{
+    background-color: black;
+    color: pink;
 }
