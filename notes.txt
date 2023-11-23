@@ -1,6 +1,5 @@
 What is HTML & Why use it?
-*<!DOCTYPE html> = Document type
-*  <meta charset="UTF-8" /> = META => it will have html document informations and it follow "UTF_8" standed,
+*<!DOCTYPE html> = Document type.
 Basic Tags
 HTML vs HTML5
 div vs section vs article
@@ -9,4 +8,42 @@ inline vs block elements
 HTML Forms
 Input elements and attributes
 Form submit
+
+*Meta tag:- 
+=> Information about HTML document.
+
+*Tags:- 
+
+=> h1-h6. Heading Tag
+
+=> <p></p> pharagraph Tag
+
+=><br> and <hr> Break Tag
+ 
+=> <a> Anchor Tag = to redirect the document (example: click here to knpw more) [Target = to load next page]
+
+=> Image tag = to add Image(img src="" alt="to alter")
+ 
+ => List type: 2 types
+
+             1.ordered (1,2,3 r a,b,c) <ol type="A"> <li>=list<li> <ol>
+             2.{unordered} (*,.) <ul style=" list-style-type:square;"> <ul> <li> <ul>
+ .....................................................................................................
+
+inline vs block elements:-
+1. inline = <b> tag= bold,italy,h-line,span 
+2.div = div it will take full block
+
+Form:-
+1.Lable = <lable>
+2.Input 
+
+>>>>to highligh with out css = <mark>
+
+
+
+
+
+
+
 
