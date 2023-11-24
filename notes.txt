@@ -38,7 +38,15 @@ Form:-
 1.Lable = <lable>
 2.Input 
 
->>>>to highligh with out css = <mark>
+>>>>to highligh with out css = <mark> 
+
+>>>>>>>>> Sematic elements>>>>>>>>>>
+>>>>>>>>>>...Body tag....>>>>>>>>
+ *<body>
+ <header>
+ <main> 
+ <footer>
+ </body>*
 
 
 
